@@ -26,7 +26,6 @@ This is a simple solidity program to create a Token.
 ## Authors
 
 Mukesh Kumar 
-Email: mks.mukesh11nov@gmail.com
 
 
 ## License
