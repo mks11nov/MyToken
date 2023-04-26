@@ -1,4 +1,4 @@
-# Project Title
+# MyToken
 
 This is a simple solidity program to create a Token.
 
